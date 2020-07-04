@@ -1,0 +1,15 @@
+{
+  "name": "BufGreenCode",
+  "short_name": "BufGreenCode",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#86B142",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "assets/static/favicon.png",
+      "sizes": "513x513",
+      "type": "image/png"
+    }
+  ]
+}
